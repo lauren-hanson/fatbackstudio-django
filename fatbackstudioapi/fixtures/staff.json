@@ -1,0 +1,52 @@
+[
+    {
+        "model": "fatbackstudioapi.staff",
+        "pk": 1,
+        "fields": {
+            "userId": 1,
+            "startDate": "1993-04-07",
+            "imageURL": "https://res.cloudinary.com/dgwi6xvfl/image/upload/v1671725376/FatBack/dad2_kdbayx.jpg",
+            "titleId": 1
+        }
+    },
+    {
+        "model": "fatbackstudioapi.staff",
+        "pk": 2,
+        "fields": {
+            "userId": 2,
+            "startDate": "2018-07-10",
+            "imageURL": "https://res.cloudinary.com/dgwi6xvfl/image/upload/v1670885552/FatBack/fatback-4_yinioc.jpg",
+            "titleId": 2
+        }
+    },
+    {
+        "model": "fatbackstudioapi.staff",
+        "pk": 3,
+        "fields": {
+            "userId": 3,
+            "startDate": "2019-09-01",
+            "imageURL": "https://res.cloudinary.com/dgwi6xvfl/image/upload/v1671725260/FatBack/gabe2_wfdgvp.jpg",
+            "titleId": 2
+        }
+    },
+    {
+        "model": "fatbackstudioapi.staff",
+        "pk": 4,
+        "fields": {
+            "userId": 4,
+            "startDate": "2020-03-01",
+            "imageURL": "https://res.cloudinary.com/dgwi6xvfl/image/upload/v1671722873/FatBack/samwilson_jlqdsm.jpg",
+            "titleId": 2
+        }
+    },
+    {
+        "model": "fatbackstudioapi.staff",
+        "pk": 5,
+        "fields": {
+            "userId": 4,
+            "startDate": "2020-03-01",
+            "imageURL": "https://res.cloudinary.com/dgwi6xvfl/image/upload/v1671722873/FatBack/samwilson_jlqdsm.jpg",
+            "titleId": 2
+        }
+    }
+]
